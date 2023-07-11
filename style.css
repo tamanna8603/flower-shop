@@ -1,0 +1,32 @@
+/*Common Shared style*/
+.btn-primary{
+  border-radius: 5px;
+  background: #E55473;
+  border:none;
+  padding: 12px 20px;
+}
+.banner-container{
+  width: 100%;
+  height: 800px;
+  background-color: rgba(229, 80, 110, 0.1);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding:0 80px;
+}
+.banner-description{
+  align-items: center;
+  width: 50%;
+}
+.text-description{
+  color: rgba(39, 39, 39, 0.60);
+  width: 50%;
+  font-size: 15px;
+  line-height: 25px;
+}
+.img{
+  width: 600px;
+  height: 750px;
+  padding: 50px;
+  padding-bottom: 0;
+}
