@@ -68,5 +68,30 @@
   margin: auto;
 
 }
+.media{
+  text-align: center;
+  align-items: center;
+  margin: auto;
+}
+.media-description{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.card{
+  border-radius: 3px;
+  
+}
+.cards{
+  display: flex;
+  gap: 10px;
+}
+.cards-container{
+  justify-content: center;
+}
+
+
+
 
 
